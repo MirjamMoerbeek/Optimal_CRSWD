@@ -1,8 +1,3 @@
-### open graph window
-dev.new(width=16/2.54, height=16/2.54)
-dev.new(width=32/2.54, height=32/2.54)
-par(mfrow=c(2,2))
-
 ### load alabama library
 library(alabama)
 
